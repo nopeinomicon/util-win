@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="winfstools.cpp">
+    <ClCompile Include="eject.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
